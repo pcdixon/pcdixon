@@ -1,4 +1,4 @@
-Hi my name is Peter. I develop in asp.net VB, SQL Server, VBA and Python
+Hi my name is Peter. I am an asp.net VB, SQL Server, VBA and Python developer
 
 <!---
 pcdixon/pcdixon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
